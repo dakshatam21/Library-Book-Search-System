@@ -63,5 +63,5 @@ Add user authentication or login
 Add fuzzy search (auto-correct spellings)
 
 
-Author
+Author :
 Dakshata Mhatre
